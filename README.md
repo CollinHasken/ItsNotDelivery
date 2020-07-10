@@ -7,3 +7,4 @@
 * Scripts/Delivery/DeliveryManager.cs
 * Scripts/Managers/LevelManager.cs
 * Scripts/Player/Explosion.cs 
+* Scripts/Player/Player.cs 
